@@ -38,3 +38,6 @@ SFML предоставляет простой интерфейс для раз�
 6. **Score**. Счетчик, предназначенный для записи рекорда игрока.
 7. **Jetpack**. Игровой бонус, с помощью которого персонаж 
 беспрепятственно преодолевает большое расстояние.
+
+## Скриншоты
+<img src=https://github.com/BIAWOLF-AV/doodle/blob/master/doodle_img/1.jpg width="250" height="398">  <img src=https://github.com/BIAWOLF-AV/doodle/blob/master/doodle_img/2.jpg width="250" height="398">  <img src=https://github.com/BIAWOLF-AV/doodle/blob/master/doodle_img/3.jpg width="250" height="398">  <img src=https://github.com/BIAWOLF-AV/doodle/blob/master/doodle_img/4.jpg width="250" height="398">  <img src=https://github.com/BIAWOLF-AV/doodle/blob/master/doodle_img/5.jpg width="250" height="398">
